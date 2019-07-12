@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ALC4PHASE1</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="track">Track:</string>
+    <string name="android">Android</string>
+    <string name="country">Country:</string>
+    <string name="ghana">Ghana</string>
+    <string name="email">Email:</string>
+    <string name="anomabocentral_gmail_com">anomabocentral@gmail.com</string>
+    <string name="phone_number">Phone number:</string>
+    <string name="_233265430376">+233265430376</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="george_padmore_saah">George Padmore Saah</string>
+</resources>
